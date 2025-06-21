@@ -1,0 +1,8 @@
+openai
+dotenv
+requests
+flask
+pyjwt
+supabase
+flask_cors
+pymupdf
